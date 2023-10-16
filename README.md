@@ -27,5 +27,4 @@ This guide is designed to help new users. Currently completing.
 * Change the title image (sample game only)
 * Uninstall Editor
 
-
 ***
